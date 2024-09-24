@@ -51,7 +51,7 @@ You can install OpenCV using pip:
 pip install opencv-python-headless
 
 
-## 📄 Usage
+## RUN
 To run the app:
 
 **Run the Streamlit app:**
